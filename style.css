@@ -1,0 +1,23 @@
+body {
+    font-family: arial, Helvetica, "Comic Sans MS", sans-serif;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin: auto;
+}
+
+h1, h2, p {
+    text-align: center;
+    margin: 20px;
+}
+
+p {
+    line-height: 2;
+}
+
+nav {
+    align-content: center;
+}
