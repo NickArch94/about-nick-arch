@@ -3,21 +3,27 @@ body {
 }
 
 img {
-    width: 30%;
-    height: 30%;
+    width: 20%;
+    height: 20%;
     display: block;
     margin: auto;
 }
 
 h1, h2, p {
     text-align: center;
-    margin: 20px;
+    margin: 30px;
 }
 
 p {
     line-height: 2;
 }
 
-nav {
+nav ul{
+    list-style-position: inside;
+    text-align: center;
+}
+
+li {
+    padding: 8px;
     align-content: center;
 }
